@@ -100,12 +100,12 @@ Aplicativo Android nativo desenvolvido em **Kotlin** que consome a API da OpenWe
 ---
 
 ## 🔜 Possíveis melhorias
--Adicionar ícone do clima dinâmico
--Previsão para 5 dias
--Detectar localização automática (GPS)
--Salvar última cidade pesquisada
--Tema claro/escuro
--Tela de Splash
+- Adicionar ícone do clima dinâmico
+- Previsão para 5 dias
+- Detectar localização automática (GPS)
+- Salvar última cidade pesquisada
+- Tema claro/escuro
+- Tela de Splash
 
 --- 
 
@@ -130,9 +130,9 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 Pedro Luiz da Silva Jasmin
 
-GitHub: @pedrojasminDev
-LinkedIn: Pedro Luiz Jasmin
-E-mail: pluiz.jasmin@gmail.com
+- GitHub: @pedrojasminDev
+- LinkedIn: Pedro Luiz Jasmin
+- E-mail: pluiz.jasmin@gmail.com
 
 ---
 
