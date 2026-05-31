@@ -141,3 +141,4 @@ Pedro Luiz da Silva Jasmin
 - OpenWeatherMap pela API gratuita
 - Retrofit pela biblioteca de requisições
 - Meu professor Aparecido Valdemir de Freitas pela orientação no projeto
+- Meu grupo pelas orientações e ajudas durante o projeto
